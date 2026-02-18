@@ -6,6 +6,7 @@ It displays the current time in real-time and updates every second.
 This project helped me understand basic JavaScript concepts like
 Date object, functions, and DOM manipulation.
 
+Live Demo : https://varshinimv.github.io/Digitalclock/
 ---
 
 ## 🛠️ Tech Stack
