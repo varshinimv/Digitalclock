@@ -39,5 +39,5 @@ Live Demo : https://varshinimv.github.io/Digitalclock/
 ---
 
 ## 🙋‍♀️ Author
-Varshini  
+Varshini M V
 BCA Student | Aspiring Full Stack Developer
